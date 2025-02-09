@@ -7,7 +7,7 @@ MERN Developer
 A dedicated and fervent developer with a deep love for crafting exceptional digital experiences. With a curious mind and an unwavering attention to detail, I harmonize design aesthetics with the power of code to create stunning and user-centric websites and applications.
 
 
-* 🖥️  See my portfolio at [https://portfolio-neha-khan.vercel.app/](http://https://portfolio-neha-khan.vercel.app/)
+* 🖥️  See my portfolio at [https://portfolio-neha-khan.vercel.app/](https://portfolio-neha-khan.vercel.app/)
 * ✉️  You can contact me at [nehatualea@gmail.com](mailto:nehatualea@gmail.com)
 
 
