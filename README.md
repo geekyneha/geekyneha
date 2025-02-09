@@ -1,10 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Neha Khan
+Hi, I'm Neha Khan
 =================================================================================================================================
 
 MERN Developer
 ----------------------
 
 A dedicated and fervent developer with a deep love for crafting exceptional digital experiences. With a curious mind and an unwavering attention to detail, I harmonize design aesthetics with the power of code to create stunning and user-centric websites and applications.
+
 
 * 🖥️  See my portfolio at [https://portfolio-neha-khan.vercel.app/](http://https://portfolio-neha-khan.vercel.app/)
 * ✉️  You can contact me at [nehatualea@gmail.com](mailto:nehatualea@gmail.com)
